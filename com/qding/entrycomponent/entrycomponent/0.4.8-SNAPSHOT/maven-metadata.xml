@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.qding.entrycomponent</groupId>
+  <artifactId>entrycomponent</artifactId>
+  <version>0.4.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190326.112347</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190326112347</lastUpdated>
+  </versioning>
+</metadata>
