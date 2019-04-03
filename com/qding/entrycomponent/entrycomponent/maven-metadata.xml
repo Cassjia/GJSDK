@@ -4,8 +4,8 @@
   <artifactId>entrycomponent</artifactId>
   <versioning>
     <versions>
-      <version>0.6.0-SNAPSHOT</version>
+      <version>0.6.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190403070009</lastUpdated>
+    <lastUpdated>20190403083534</lastUpdated>
   </versioning>
 </metadata>
